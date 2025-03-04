@@ -58,8 +58,4 @@ This repository documents my hands-on journey to mastering Artificial Intelligen
 ✅ Built Probability intuition  
 ✅ Plotted a Normal Distribution  
 
-✅ Full code in: `step_3_math_stats/math_stats_for_ml.py`  
-✅ Notes in: `step_3_math_stats/math_notes.md`
-
-
 ### ✅ Files Created
