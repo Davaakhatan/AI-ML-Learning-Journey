@@ -1,15 +1,51 @@
-# 🚀 AI/ML Learning Journey - Step 1
+# 🚀 AI/ML Learning Journey
 
-## ✅ Introduction
-This repository documents my hands-on journey to mastering AI and Machine Learning, following a step-by-step curriculum designed by ChatGPT.
+This repository documents my hands-on journey to mastering Artificial Intelligence and Machine Learning, following a step-by-step curriculum designed by ChatGPT.
 
 ---
 
-## ✅ Step 1: Setting Up the Environment
+## ✅ Progress Tracker
 
-### 1. Install Python
-[Download Python](https://www.python.org/downloads)
+| Step | Description | Status |
+|---|---|---|
+| Step 1 | Environment Setup | ✅ Completed |
+| Step 2 | Python Basics for AI/ML | ✅ Completed |
+| Step 3 | Math & Statistics for ML | 🔜 Coming Next |
+| Step 4 | Data Preprocessing & Visualization | 🔜 Coming Soon |
+| Step 5 | Machine Learning Fundamentals | 🔜 Coming Soon |
+| Step 6 | Deep Learning Foundations | 🔜 Coming Soon |
+| Step 7 | Advanced ML Techniques | 🔜 Coming Soon |
+| Step 8 | Real-World Projects | 🔜 Coming Soon |
+| Step 9 | AI/ML Job Preparation | 🔜 Coming Soon |
 
-### 2. Set Up Jupyter Notebook
-```bash
-pip install notebook
+---
+
+## 📚 Step 1 - Environment Setup
+
+### ✅ Installed Tools
+- Python 3.11
+- PyCharm Community Edition
+- Core Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow
+
+### ✅ Test File
+- **welcome.py** prints: `Welcome to AI/ML Mastery!`
+
+---
+
+## 📚 Step 2 - Python Basics for AI/ML
+
+### ✅ Key Topics Covered
+| Topic | Status |
+|---|---|
+| Variables & Data Types | ✅ |
+| Lists, Dictionaries & Sets | ✅ |
+| Loops (for, while) | ✅ |
+| Conditional Statements (if-else) | ✅ |
+| Functions | ✅ |
+| File Handling (read/write) | ✅ |
+| Importing Libraries | ✅ |
+| Basic Plotting (Matplotlib) | ✅ |
+
+---
+
+### ✅ Files Created
