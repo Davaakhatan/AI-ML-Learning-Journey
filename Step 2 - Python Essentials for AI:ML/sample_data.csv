@@ -1,0 +1,11 @@
+Name,Age,Salary,Department
+Alice,25,50000,IT
+Bob,30,,HR
+Charlie,22,42000,IT
+David,35,60000,Finance
+Eve,,55000,Marketing
+Frank,28,48000,HR
+Grace,29,52000,IT
+Hank,31,57000,Finance
+Ivy,26,,Marketing
+Jack,33,61000,HR
