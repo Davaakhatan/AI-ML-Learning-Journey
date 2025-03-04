@@ -52,10 +52,21 @@ This repository documents my hands-on journey to mastering Artificial Intelligen
 
 ## 📚 Step 3 - Math & Statistics for ML
 
-✅ Learned about Mean, Median, Mode  
-✅ Calculated Variance & Standard Deviation  
-✅ Understood Correlation & Covariance  
-✅ Built Probability intuition  
-✅ Plotted a Normal Distribution  
+### ✅ Key Topics Covered
+| Topic                    | Status |
+|----------------|---|
+| Mean, Median, Mode        | ✅ |
+| Variance & Standard Deviation | ✅ |
+| Correlation & Covariance | ✅ |
+| Probability Basics | ✅ |
+| Normal Distribution | ✅ |
+| Z-Score (Outliers) | ✅ |
 
-### ✅ Files Created
+### ✅ Why It’s Important
+This step builds the **mathematical foundation** every AI/ML engineer needs to understand data, work with datasets, and prepare data for models.
+
+✅ Full code in: `step_3_math_stats/math_stats_for_ml.py`  
+✅ Summary notes in: `step_3_math_stats/math_notes.md`
+
+---
+
