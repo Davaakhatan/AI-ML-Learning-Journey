@@ -1,5 +1,7 @@
 # 🚀 AI/ML Learning Journey
 
+![Progress](https://img.shields.io/badge/AI%2FML%20Journey-Step%203%20Complete-brightgreen?style=for-the-badge)
+
 This repository documents my hands-on journey to mastering Artificial Intelligence and Machine Learning, following a step-by-step curriculum designed by ChatGPT.
 
 ---
@@ -10,7 +12,7 @@ This repository documents my hands-on journey to mastering Artificial Intelligen
 |---|---|---|
 | Step 1 | Environment Setup | ✅ Completed |
 | Step 2 | Python Basics for AI/ML | ✅ Completed |
-| Step 3 | Math & Statistics for ML | 🔜 Coming Next |
+| Step 3 | Math & Statistics for ML | ✅ Completed |
 | Step 4 | Data Preprocessing & Visualization | 🔜 Coming Soon |
 | Step 5 | Machine Learning Fundamentals | 🔜 Coming Soon |
 | Step 6 | Deep Learning Foundations | 🔜 Coming Soon |
@@ -47,5 +49,17 @@ This repository documents my hands-on journey to mastering Artificial Intelligen
 | Basic Plotting (Matplotlib) | ✅ |
 
 ---
+
+## 📚 Step 3 - Math & Statistics for ML
+
+✅ Learned about Mean, Median, Mode  
+✅ Calculated Variance & Standard Deviation  
+✅ Understood Correlation & Covariance  
+✅ Built Probability intuition  
+✅ Plotted a Normal Distribution  
+
+✅ Full code in: `step_3_math_stats/math_stats_for_ml.py`  
+✅ Notes in: `step_3_math_stats/math_notes.md`
+
 
 ### ✅ Files Created
